@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @XHSecurity
-- 👀 I’m interested in cybersecurity, software development, and open-source projects.
-- 🌱 I’m currently learning advanced security techniques and cloud computing.
-- 💞️ I’m looking to collaborate on security tools, software development, and tech innovations.
-- 📫 How to reach me: [Email](mailto:example@example.com) | [Twitter](https://twitter.com/XHSecurity)
-
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
 - 🇨🇳 爱国、爱党、爱人民。
 
 <!---
