@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![](https://img.shields.io/github/stars/XHSecurity/JDK_Switch_Version?style=flat-square&label=%E2%AD%90%EF%B8%8F+Projects%27s%20STARS)](https://github.com/XHSecurity/JDK_Switch_Version)
-![Total Stars](https://img.shields.io/github/stars/XHSecuirty?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=%E2%AD%90%EF%B8%8F+TOTAL%20STARS&style=flat-square)
+![Total Stars](https://img.shields.io/github/stars/XHSecuirty/RGB_Image_Tools?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=%E2%AD%90%EF%B8%8F+TOTAL%20STARS&style=flat-square)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XHSecurity&show_icons=true&include_all_commits=true&theme=swift&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=XHSecurity&layout=compact&theme=swift&hide_border=true)
 | ------------- | ------------- |
