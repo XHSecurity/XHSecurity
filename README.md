@@ -20,11 +20,6 @@ You can click the Preview link to take a look at your changes.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XHSecurity&show_icons=true&include_all_commits=true&theme=swift&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XHSecurity&layout=compact&theme=swift&hide_border=true)
 | ------------- | ------------- |
 
-## 🌟 Fun Facts
-
-- 🎉 **Current Streak:** [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=XHSecurity&theme=swift)](https://github.com/XHSecurity)
-- 🏆 **GitHub Trophy:** [![Trophies](https://github-profile-trophy.vercel.app/?username=XHSecurity&theme=darkhub)](https://github.com/XHSecurity)
-
 ## 👥 Social
 
 [![GitHub Followers](https://img.shields.io/github/followers/XHSecurity?style=social)](https://github.com/XHSecurity)
