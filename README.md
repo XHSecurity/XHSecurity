@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 ## 🚀 Projects
 
 [![项目星标](https://img.shields.io/github/stars/XHSecurity/JDK_Switch_Version?style=flat-square&label=%E2%AD%90%EF%B8%8F+%E9%A1%B9%E7%9B%AE%E6%98%9F%E6%A0%87)](https://github.com/XHSecurity/JDK_Switch_Version)
-[![总星标](https://img.shields.io/github/stars/XHSecurity/RGB_Image_Tools?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=%E2%AD%90%EF%B8%8F+%E6%80%BB%E6%98%9F%E6%A0%87&style=flat-square)](https://github.com/XHSecurity/RGB_Image_Tools)
+[![总星标](https://img.shields.io/github/stars/XHSecurity?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=%E2%AD%90%EF%B8%8F+%E6%80%BB%E6%98%9F%E6%A0%87&style=flat-square)](https://github.com/XHSecurity/RGB_Image_Tools)
 
 ## 📊 GitHub Stats & Languages
 
@@ -29,7 +29,9 @@ You can click the Preview link to take a look at your changes.
 ## 👥 Social
 
 [![GitHub Followers](https://img.shields.io/github/followers/XHSecurity?style=social)](https://github.com/XHSecurity)
+<!---
 [![Twitter Follow](https://img.shields.io/twitter/follow/XHSecurity?style=social)](https://twitter.com/XHSecurity)
+--->
 
 ## 🧩 Visitor Count
 
