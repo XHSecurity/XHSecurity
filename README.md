@@ -23,9 +23,6 @@ You can click the Preview link to take a look at your changes.
 ## 👥 Social
 
 [![GitHub Followers](https://img.shields.io/github/followers/XHSecurity?style=social)](https://github.com/XHSecurity)
-<!---
-[![Twitter Follow](https://img.shields.io/twitter/follow/XHSecurity?style=social)](https://twitter.com/XHSecurity)
---->
 
 ## 🧩 Visitor Count
 
