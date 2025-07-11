@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @XHSecurity
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I'm @XHSecurity
+
+- 👀 **Interests**: Security research, open source, DevSecOps, automation, cloud & network security, AI security.
+- 🌱 **Currently Learning**: Advanced penetration testing, cloud-native security, AI-driven security solutions, and modern software development best practices.
+- 🤝 **Open to Collaborate On**: Security tools, open source security projects, CTFs, red/blue team exercises, and knowledge sharing.
+- 📫 **Contact Me**: [GitHub Issues](https://github.com/XHSecurity/XHSecurity/issues) | Email: xhsecurity@protonmail.com
 - 🇨🇳 爱国、爱党、爱人民。
+
+---
 
 <!---
 XHSecurity/XHSecurity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,13 +20,19 @@ You can click the Preview link to take a look at your changes.
 
 ## 📊 GitHub Stats & Languages
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XHSecurity&show_icons=true&include_all_commits=true&theme=swift&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XHSecurity&layout=compact&theme=swift&hide_border=true)
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XHSecurity&show_icons=true&include_all_commits=true&theme=swift&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XHSecurity&layout=compact&theme=swift&hide_border=true) |
 | ------------- | ------------- |
 
 ## 👥 Social
 
 [![GitHub Followers](https://img.shields.io/github/followers/XHSecurity?style=social)](https://github.com/XHSecurity)
+[![Twitter/X](https://img.shields.io/badge/XHSecurity-%40XHSecurity-1DA1F2?style=social&logo=twitter)](https://twitter.com/XHSecurity)
+[![Blog](https://img.shields.io/badge/Blog-xhsec.com-brightgreen)](https://xhsec.com) <!-- 如有博客可填写 -->
 
 ## 🧩 访问量统计
 
 ![Visitor Count](https://badgen.net/visitor-badge/github/XHSecurity/XHSecurity)
+
+---
+
+> **热爱技术，追求卓越，安全为先，合作共赢。**
