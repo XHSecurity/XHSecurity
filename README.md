@@ -3,7 +3,7 @@
 - 👀 **Interests**: Security research, open source, DevSecOps, automation, cloud & network security, AI security.
 - 🌱 **Currently Learning**: Advanced penetration testing, cloud-native security, AI-driven security solutions, and modern software development best practices.
 - 🤝 **Open to Collaborate On**: Security tools, open source security projects, CTFs, red/blue team exercises, and knowledge sharing.
-- 📫 **Contact Me**: [GitHub Issues](https://github.com/XHSecurity/XHSecurity/issues) | Email: xhsecurity@protonmail.com
+- 📫 **Contact Me**: [GitHub Issues](https://github.com/XHSecurity/XHSecurity/issues) | Email: 
 - 🇨🇳 爱国、爱党、爱人民。
 
 ---
