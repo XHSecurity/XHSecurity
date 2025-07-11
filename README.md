@@ -6,8 +6,6 @@
 - 📫 **Contact Me**: [GitHub Issues](https://github.com/XHSecurity/XHSecurity/issues) 
 - 🇨🇳 爱国、爱党、爱人民。
 
----
-
 <!---
 XHSecurity/XHSecurity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -30,8 +28,6 @@ You can click the Preview link to take a look at your changes.
 ## 🎧 Coding BGM
 
 [![Coding Music](https://img.shields.io/badge/BGM-lofi%20coding%20music-ff69b4?logo=youtube)](https://www.youtube.com/results?search_query=lofi+coding+music)
-
----
 
 > **热爱技术，追求卓越，安全为先，合作共赢。**
 
