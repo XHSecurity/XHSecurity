@@ -26,8 +26,7 @@ You can click the Preview link to take a look at your changes.
 ## 👥 Social
 
 [![GitHub Followers](https://img.shields.io/github/followers/XHSecurity?style=social)](https://github.com/XHSecurity)
-[![Twitter/X](https://img.shields.io/badge/XHSecurity-%40XHSecurity-1DA1F2?style=social&logo=twitter)](https://twitter.com/XHSecurity)
-[![Blog](https://img.shields.io/badge/Blog-xhsec.com-brightgreen)](https://xhsec.com) <!-- 如有博客可填写 -->
+<!-- [![Blog](https://img.shields.io/badge/Blog-xhsec.com-brightgreen)](https://xhsec.com) --> <!-- 如有博客可填写 -->
 
 ## 🧩 访问量统计
 
