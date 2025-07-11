@@ -24,11 +24,3 @@ You can click the Preview link to take a look at your changes.
 
 [![GitHub Followers](https://img.shields.io/github/followers/XHSecurity?style=social)](https://github.com/XHSecurity)
 
-## 🧩 Visitor Count
-
-<table>
-  <tr>
-    <td>Visitor Count:</td>
-    <td><img src="https://profile-counter.glitch.me/XHSecurity/count.svg" alt="Visitor Count" /></td>
-  </tr>
-</table>
