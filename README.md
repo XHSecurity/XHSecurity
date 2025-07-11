@@ -26,4 +26,4 @@ You can click the Preview link to take a look at your changes.
 
 ## 🧩 访问量统计
 
-![Visitor Count](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=访问量&query=value&url=https://api.countapi.xyz/hit/XHSecurity.github.io/visits)
+![Visitor Count](https://badgen.net/visitor-badge/github/XHSecurity/XHSecurity)
