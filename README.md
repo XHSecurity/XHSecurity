@@ -27,10 +27,56 @@ You can click the Preview link to take a look at your changes.
 [![GitHub Followers](https://img.shields.io/github/followers/XHSecurity?style=social)](https://github.com/XHSecurity)
 <!-- [![Blog](https://img.shields.io/badge/Blog-xhsec.com-brightgreen)](https://xhsec.com) --> <!-- 如有博客可填写 -->
 
-## 🧩 访问量统计
+## 🧩 Trophy & Activity
 
-![Visitor Count](https://badgen.net/visitor-badge/github/XHSecurity/XHSecurity)
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=XHSecurity&theme=flat&column=7)](https://github.com/XHSecurity)
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=XHSecurity&theme=swift&hide_border=true)](https://github.com/XHSecurity)
+  
+</div>
+
+---
+
+## 🎲 有趣的板块 / Fun Section
+
+### 🕹️ 随机一言
+
+> ![Hitokoto](https://v1.hitokoto.cn/?encode=text)
+
+---
+
+### 🧙‍♂️ 程序员的段子
+
+> “软件开发中80%的bug来源于自己，剩下的20%来自于别人合并的代码。” 😜
+
+---
+
+### 🐍 代码小彩蛋
+
+<details>
+<summary>点击展开：Python生成爱心</summary>
+
+```python
+import time
+love = 'Love U XHSecurity!'
+for i in range(1, 10, 2):
+    print((' ' * ((9 - i) // 2) + '*' * i).center(20))
+for i in range(9, 0, -2):
+    print((' ' * ((9 - i) // 2) + '*' * i).center(20))
+print(love.center(20))
+time.sleep(1)
+```
+</details>
+
+---
+
+### 🎧 Coding BGM
+
+[![Coding Music](https://img.shields.io/badge/BGM-lofi%20coding%20music-ff69b4?logo=youtube)](https://www.youtube.com/results?search_query=lofi+coding+music)
 
 ---
 
 > **热爱技术，追求卓越，安全为先，合作共赢。**
+
