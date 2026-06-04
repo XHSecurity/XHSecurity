@@ -20,9 +20,5 @@ You can click the Preview link to take a look at your changes.
 [![GitHub Followers](https://img.shields.io/github/followers/XHSecurity?style=social)](https://github.com/XHSecurity)
 <!-- [![Blog](https://img.shields.io/badge/Blog-xhsec.com-brightgreen)](https://xhsec.com) --> <!-- 如有博客可填写 -->
 
-## 🎧 Coding BGM
-
-[![Coding Music](https://img.shields.io/badge/BGM-lofi%20coding%20music-ff69b4?logo=youtube)](https://www.youtube.com/results?search_query=lofi+coding+music)
-
 > **热爱技术，追求卓越，安全为先，合作共赢。**
 
