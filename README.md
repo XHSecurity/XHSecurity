@@ -15,11 +15,6 @@ You can click the Preview link to take a look at your changes.
 
 [![总星标](https://img.shields.io/github/stars/XHSecurity?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=%E2%AD%90%EF%B8%8F+%E6%80%BB%E6%98%9F%E6%A0%87&style=flat-square)](https://github.com/XHSecurity/)
 
-## 📊 GitHub Stats & Languages
-
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XHSecurity&show_icons=true&include_all_commits=true&theme=swift&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XHSecurity&layout=compact&theme=swift&hide_border=true) |
-| ------------- | ------------- |
-
 ## 👥 Social
 
 [![GitHub Followers](https://img.shields.io/github/followers/XHSecurity?style=social)](https://github.com/XHSecurity)
