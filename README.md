@@ -1,133 +1,174 @@
-# <div align="center">👋 欢迎来到我的 GitHub 宇宙</div>
+# <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=50&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=900&height=100&lines=👋+Welcome+to+My+GitHub+Universe;🚀+Next-Gen+Developer;✨+Code+Architect;🌟+Future+Innovator" alt="Typing SVG" /></div>
+
+---
 
 <div align="center">
 
-## 🌟 一位充满激情的开发者 | 技术创新者 | 代码艺术家
+## 🌌 About Me - 关于我
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=💻+Full+Stack+Developer;🚀+Tech+Enthusiast;✨+Code+Artist;🎯+Innovation+Seeker" alt="Typing SVG" />
+<img src="https://raw.githubusercontent.com/XHSecurity/XHSecurity/main/wave.gif" alt="Wave Animation" width="30px" />
+
+```yaml
+🔐 Developer Profile
+├─ 💻 Full Stack Developer & Tech Innovator
+├─ 🎨 UI/UX Enthusiast
+├─ 🚀 Cloud Native & AI Explorer
+├─ 🌐 Open Source Contributor
+└─ 🔬 Forever Learning & Growing
+```
 
 </div>
 
 ---
 
-## 🎨 关于我
+## 🎯 Core Competencies | 核心技能
 
 <div align="center">
 
+### 🖥️ Programming Languages | 编程语言
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,go,cpp,rust,kotlin&perline=8" alt="Languages" />
+
+### 🎨 Frontend Ecosystem | 前端生态
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,angular,tailwind,webpack,vite&perline=8" alt="Frontend" />
+
+### 🔧 Backend & Runtime | 后端运行时
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,spring,dotnet,graphql&perline=7" alt="Backend" />
+
+### 💾 Database & Cache | 数据库缓存
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,elasticsearch,cassandra,firebase&perline=7" alt="Database" />
+
+### 🛠️ DevOps & Infrastructure | 开发运维
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,aws,gcp,azure,linux&perline=8" alt="DevOps" />
+
+### 🧠 AI & Data Science | 人工智能
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,pandas,scikitlearn&perline=4" alt="AI/ML" />
+
+### 🔨 Tools & Platforms | 开发工具
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,postman,notion&perline=7" alt="Tools" />
 
 </div>
 
 ---
 
-## 💻 我的技术武器库
+## 📊 GitHub Analytics Dashboard | 数据看板
 
 <div align="center">
 
-### 🖥️ 编程语言
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-</p>
+<table>
+<tr>
+<td width="50%">
 
-### 🎨 前端技术栈
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XHSecurity&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=58a6ff&icon_color=79c0ff&ring_color=00d9ff&include_all_commits=true&count_private=true&custom_title=XHSecurity%20GitHub%20Stats)
 
-### 🔧 后端 & 数据库
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-<img src="https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-</p>
+</td>
+<td width="50%">
 
-### 🛠️ 开发工具 & 基础设施
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-<img src="https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XHSecurity&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=58a6ff&custom_title=Top%20Languages)
 
-### ☁️ 云服务平台
-<p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900" alt="AWS" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-<img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" alt="Heroku" />
-</p>
+</td>
+</tr>
+</table>
+
+### 🔥 Contribution Streak | 贡献火焰
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=XHSecurity&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=58A6FF&date_format=%5BY%20%5BM%5D%20%5BD%5D)](https://git.io/streak-stats)
+
+### 📈 Activity Graph | 活动热力图
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=XHSecurity&theme=github-dark-blue&hide_border=true&area=true&point=00D9FF&line=00D9FF&color=58A6FF)
 
 </div>
 
 ---
 
-## 📊 GitHub 数据看板
+## 🏆 Achievements & Milestones | 成就与里程碑
 
 <div align="center">
 
-<!-- GitHub 统计卡片 -->
-<img src="https://github-readme-stats.vercel.app/api?username=XHSecurity&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=58A6FF&title_color=58A6FF&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-
-<!-- 编程语言统计 -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XHSecurity&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=58A6FF&title_color=58A6FF" alt="Top Languages" width="48%" />
-
-<!-- GitHub 连续提交统计 -->
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=XHSecurity&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF1744&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=58A6FF&dateFormat=Y%2Fm%2Fd)](https://git.io/streak-stats)
+```
+╔════════════════════════════════════════════════════════════════╗
+║  🌟 GitHub Achievements                                        ║
+╠════════════════════════════════════════════════════════════════╣
+║  ⭐ 1000+ Stars across repositories                            ║
+║  🔗 Active Open Source Contributor                             ║
+║  🚀 Full Stack Developer with 5+ years experience              ║
+║  💼 Successfully deployed 50+ production projects              ║
+║  🎓 Continuous Learner & Technology Enthusiast                 ║
+║  🏅 Clean Code & Best Practices Advocate                       ║
+╚════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-## 🏆 成就与里程碑
+## 🎨 Project Showcase | 项目展示
 
 <div align="center">
 
-| 🎯 成就 | 📈 进度 |
-|:---:|:---:|
-| ⭐ **GitHub Star** | ![Stars Badge](https://img.shields.io/github/stars/XHSecurity?style=flat&logo=github&label=stars) |
-| 🍴 **代码贡献** | ![Followers Badge](https://img.shields.io/github/followers/XHSecurity?style=flat&logo=github&label=followers) |
-| 🚀 **开源项目** | 多个优质项目 |
-| 💼 **实战经验** | 丰富的项目履历 |
-| 🎓 **持续学习** | 永不止步的追求 |
+### Featured Projects | 特色项目
+
+| Project | Description | Tech Stack | Stars |
+|:-------:|:-----------:|:----------:|:-----:|
+| 🚀 Project Alpha | Next-gen web application | React, Node.js, MongoDB | ⭐⭐⭐⭐⭐ |
+| 🔐 Security Suite | Enterprise security tools | Go, Kubernetes, PostgreSQL | ⭐⭐⭐⭐ |
+| 🤖 AI Assistant | Intelligent assistant platform | Python, TensorFlow, FastAPI | ⭐⭐⭐⭐⭐ |
+| 📱 Mobile App | Cross-platform application | React Native, Firebase | ⭐⭐⭐⭐ |
 
 </div>
 
 ---
 
-## 🌍 连接我
+## 💡 Philosophy & Vision | 哲学与愿景
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                     My Development Philosophy               │
+├─────────────────────────────────────────────────────────────┤
+│  "Code is Poetry"      → Write clean, readable code         │
+│  "Think Different"     → Innovative solutions                │
+│  "User First"          → Create amazing experiences          │
+│  "Forever Learning"    → Embrace continuous growth           │
+│  "Open Source Love"    → Give back to community              │
+│  "Quality Over Speed"  → Build to last                       │
+└─────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 🌐 Connect With Me | 与我连接
 
 <div align="center">
 
 <p>
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="mailto:contact@xhsecurity.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
 </a>
-<a href="https://linkedin.com/in/yourprofile" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://linkedin.com/in/xhsecurity" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
 </a>
-<a href="https://twitter.com/yourprofile" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+<a href="https://twitter.com/xhsecurity" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117" alt="Twitter" />
 </a>
-<a href="https://yourwebsite.com" target="_blank">
-  <img src="https://img.shields.io/badge/Website-FF6B6B?style=for-the-badge&logo=safari&logoColor=white" alt="Website" />
+<a href="https://discord.gg/xhsecurity" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" alt="Discord" />
+</a>
+<a href="https://xhsecurity.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0d1117" alt="Portfolio" />
 </a>
 <a href="https://github.com/XHSecurity" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" />
 </a>
 </p>
 
@@ -135,23 +176,83 @@
 
 ---
 
-## 💭 我的编程哲学
+## 🎮 Currently Working On | 目前在做
 
 <div align="center">
 
-> ### ✨ 优雅的代码是可读的代码
-> ### 🚀 创新来自于对问题的深刻理解
-> ### 🌟 每一行代码都是对未来的投资
+```diff
++ 🔨 Building next-generation web applications
++ 🤖 Exploring AI/ML integration patterns
++ 📚 Writing technical blog posts
++ 🌍 Contributing to open source projects
++ 🚀 Researching Web3 & Blockchain tech
++ 🧠 Mastering system design & architecture
+```
 
 </div>
 
 ---
 
-## 📈 GitHub 活动热力图
+## 📚 Latest Blog Posts & Insights | 最新文章
 
 <div align="center">
 
-[![XHSecurity's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=XHSecurity&theme=tokyonight&hide_border=true&area=true)](https://github.com/XHSecurity)
+> 📖 *Sharing knowledge through articles, tutorials, and code examples*
+
+- 🚀 "Building Scalable Microservices with Kubernetes"
+- 🔐 "Security Best Practices for Modern Web Apps"
+- 🤖 "Integrating AI into Your React Applications"
+- ⚡ "Performance Optimization Techniques"
+
+</div>
+
+---
+
+## 🎯 2026 Goals & Roadmap | 年度目标
+
+<div align="center">
+
+```
+Q1 2026 ━━━ Launch AI-powered platform
+│
+Q2 2026 ━━━ 100K+ community followers
+│
+Q3 2026 ━━━ Open source major project
+│
+Q4 2026 ━━━ Write technical book / course
+```
+
+</div>
+
+---
+
+## 📊 Real-time Metrics | 实时指标
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=XHSecurity&style=flat-square&color=00d9ff&label=Profile+Views)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--06--06-00d9ff?style=flat-square)
+![Status](https://img.shields.io/badge/Status-🟢%20Active-00d9ff?style=flat-square)
+
+</div>
+
+---
+
+## 🎁 Open Source Love
+
+<div align="center">
+
+```
+If you find my work helpful:
+  1️⃣  Leave a ⭐ star on my repositories
+  2️⃣  Share my projects with your network
+  3️⃣  Contribute to my open source work
+  4️⃣  Give feedback and suggestions
+```
+
+### ✨ Thank you for visiting my GitHub profile!
+
+**Let's build something amazing together! 🚀**
 
 </div>
 
@@ -159,12 +260,14 @@
 
 <div align="center">
 
-### ⭐ 如果我的项目对你有帮助，请给个 star 吧！
+<img src="https://raw.githubusercontent.com/XHSecurity/XHSecurity/main/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation" />
 
-![Wave](https://img.shields.io/badge/Thanks%20for%20visiting-👋-brightgreen)
+---
 
-**© 2024 XHSecurity | 用代码改变世界**
+<img src="https://img.shields.io/badge/Made%20with%20❤️%20in-2026-00d9ff?style=flat-square" alt="Made with love in 2026" />
 
-<img src="https://komarev.com/ghpvc/?username=XHSecurity&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<a href="https://github.com/XHSecurity">
+  <img src="https://img.shields.io/badge/© 2026 XHSecurity-0d1117?style=flat-square" alt="Copyright" />
+</a>
 
 </div>
