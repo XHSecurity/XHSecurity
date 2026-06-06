@@ -48,28 +48,6 @@ A cybersecurity enthusiast and full-stack developer focused on:
 
 ---
 
-## 🎯 Core Competencies
-
-**Security Domains**
-- Network penetration testing
-- Vulnerability research & exploitation
-- Intranet security & tunneling
-- Authentication bypass techniques
-
-**Developer Tools**
-- System automation & optimization
-- Cross-platform compatibility
-- CLI application development
-- Batch processing solutions
-
-**Technologies**
-- Python · Shell · Java · Batch
-- Network protocols & routing
-- Firmware customization
-- PDF & image processing
-
----
-
 ## 📊 Repository Stats
 
 ```
