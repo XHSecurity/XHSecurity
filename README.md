@@ -20,34 +20,6 @@ A cybersecurity enthusiast and full-stack developer focused on:
 
 ---
 
-## ⚡ Featured Projects
-
-### 🔒 Security & Penetration Testing
-
-| Project | Description | Tech | Stats |
-|---------|-------------|------|-------|
-| **BurpSuite Pro Mac** | Mac-specific version with bilingual support | Shell | ⭐ 13 |
-| **Oracle WebLogic CVE-2017-10271** | Security vulnerability research | Java | ⭐ 1 |
-
-### 🌐 Network Solutions
-
-| Project | Description | Tech | Stats |
-|---------|-------------|------|-------|
-| **EarthWorm** | Intranet penetration tool | CSS | ⭐ 11 |
-| **Drcom Client** | Campus network authentication bypass | Multi | ⭐ 2 |
-| **DrcomRouterFirmware** | Campus network router firmware | Firmware | ⭐ 3 |
-| **LAN PingScan** | Local network host scanning tool | Python | ⭐ 1 |
-
-### 🛠️ Developer Tools
-
-| Project | Description | Tech | Stats |
-|---------|-------------|------|-------|
-| **JDK Version Switcher** | Auto-switch multiple JDK versions (Windows) | Batch | ⭐ 3 |
-| **People's Daily PDF Downloader** | Batch download PDF news archives | Python | ⭐ 10 |
-| **RGB Image Tools** | Color image processing utilities | Python | ⭐ 0 |
-
----
-
 ## 📊 Repository Stats
 
 ```
