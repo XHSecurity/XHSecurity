@@ -23,7 +23,7 @@ A cybersecurity enthusiast and full-stack developer focused on:
 ## 📊 Repository Stats
 
 ```
-Total Projects:     10
+Total Projects:     12
 Total Stars:        55+
 Primary Focus:      Security & Utilities
 Most Used Language: Python
