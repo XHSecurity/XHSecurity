@@ -19,7 +19,7 @@ A cybersecurity enthusiast and full-stack developer focused on:
 - 💻 **Cross-Platform** - Solutions for Mac, Windows, and Linux
 
 ---
-<---
+<!--
 ## 📊 Repository Stats
 
 ```
@@ -31,7 +31,7 @@ Contribution Level: Active Maintainer
 ```
 
 ---
---->
+-->
 
 ## 🚀 Current Projects
 
